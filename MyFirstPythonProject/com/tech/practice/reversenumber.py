@@ -13,5 +13,5 @@ while num != 0:
     reveed = reveed*10+digit
     num=num//10
 
-print(reveed)    
+print(reveed) 
     
